@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm kyem</h1>
-<h3 align="center">A Black, trans software engineer based in Texas.</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyem-asa&label=Profile%20views&color=0e75b6&style=flat" alt="kyem-asa" /> </p>
 
