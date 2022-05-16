@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS OOP principles & APIs.**
 
-- 👨‍💻 My portfolio is available at [kyem.netlify.app] (kyem.netlify.app)
+- 👨‍💻 My portfolio is available at [kyem.netlify.app](kyem.netlify.app)
 
 - 📫 How to reach me **kyem.brown@gmail.com**
 
