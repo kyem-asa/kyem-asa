@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Genshin Impact Tracker**  & cleaning up my GitHub.
 
-- 🌱 I’m currently learning **JS OOP principles & APIs.**
+- 🌱 I’m currently learning **node.js** and **p5.js**
 
 - 👨‍💻 My portfolio is available at [kyem.netlify.app](kyem.netlify.app)
 
-- 📫 How to reach me **kyem.brown@gmail.com**
+- 📫 You can email me at **kyem.brown@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
