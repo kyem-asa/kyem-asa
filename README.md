@@ -7,10 +7,6 @@ I'm a full-stack software engineer based in TX. Feel free to check out my projec
 
 - I’m currently learning React and also web accessbility at Deque University.
 
-- My portfolio is available at [kyem.netlify.app](kyem.netlify.app)
-
-- You can email me at **kyem.brown@gmail.com**
-
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/thatdevkyem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatdevkyem" height="30" width="40" /></a>
