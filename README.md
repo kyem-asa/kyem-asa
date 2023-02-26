@@ -5,7 +5,7 @@ I'm a full-stack software engineer based in TX. Feel free to check out my projec
 
 - I’m currently working on rebuilding my portfolio with React & NextJS and wireframing an anime app.
 
-- I’m currently learning React and also web accessbility at Deque University.
+- I’m currently working on a minimal webtoon tracker for neurodivergent fans.
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
